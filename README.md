@@ -22,3 +22,7 @@ En la computadora local clonar el Repositorio
 
 ## INGRESAR A CONSENSUS: IA FOR RESEARCH
 https://consensus.app/
+
+## MODELOS
+1. cLAUDE: https://claude.ai/new
+2. GEMINI: https://gemini.google.com/app
