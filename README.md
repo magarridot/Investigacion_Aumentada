@@ -24,5 +24,5 @@ En la computadora local clonar el Repositorio
 https://consensus.app/
 
 ## MODELOS
-1. cLAUDE: https://claude.ai/new
+1. CLAUDE: https://claude.ai/new
 2. GEMINI: https://gemini.google.com/app
