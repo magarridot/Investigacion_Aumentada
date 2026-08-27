@@ -11,9 +11,9 @@ https://github.com/
 Crear usuario y contraseña, enviar usuario al WhatsApp para compartir repositorio
 
 En la computadora local clonar el Repositorio
-git clone https://github.com/magarridot/Investigacion_Aumentada
+1.	git clone https://github.com/magarridot/Investigacion_Aumentada
 
-### FLUJO COMPLETO DE TRABAJO EN GITHUB
+## FLUJO COMPLETO DE TRABAJO EN GITHUB
 1.	Traer cambios de GitHub → git pull origin main
 2.	Ver estado → git status
 3.	Seleccionar archivos → git add .
