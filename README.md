@@ -2,9 +2,9 @@
 Repositorio para la enseñanza de Inteligencia artificial para el desarrollo riguroso de proyectos científicos
 
 ## DESCARGAR GIT, ANTIGRAVITY IDE Y VSCode
-https://git-scm.com/install/windows
-https://antigravity.google/product/antigravity-ide
-https://code.visualstudio.com/download?_exp_download=fb315fc982
+1.	https://git-scm.com/install/windows
+2.	https://antigravity.google/product/antigravity-ide
+3.	https://code.visualstudio.com/download?_exp_download=fb315fc982
 
 ## REPOSITORIO EN GITHUB
 https://github.com/
@@ -12,7 +12,6 @@ Crear usuario y contraseña, enviar usuario al WhatsApp para compartir repositor
 
 En la computadora local clonar el Repositorio
 git clone https://github.com/magarridot/Investigacion_Aumentada
-<img width="856" height="69" alt="image" src="https://github.com/user-attachments/assets/9e9f03e1-a14f-4004-9728-4bb8ca6deb5c" />
 
 ### FLUJO COMPLETO DE TRABAJO EN GITHUB
 1.	Traer cambios de GitHub → git pull origin main
